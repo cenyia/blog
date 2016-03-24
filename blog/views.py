@@ -11,3 +11,5 @@ def entries():
     return render_template("entries.html",
         entries=entries
     )
+    
+
